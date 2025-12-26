@@ -3,4 +3,4 @@ Here you will find notebooks created for giving classes regarding Physics subjec
 
 🌊 Wave Physics
 
-This notebook introduces the fundamental concepts of wave physics and solves the 1D wave equation using both analytical and numerical methods.
+These notebooks introduce the fundamental concepts of wave physics and numerical solutions to the wave equation.
